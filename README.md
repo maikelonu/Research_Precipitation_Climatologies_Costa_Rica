@@ -14,7 +14,7 @@ Costa Rica Rain-Gauge Observational Network 1961-1990
 
 QGIS-Project
 
-![alt test](/QGIS_PREC.jpeg)
+![alt test](/QGIS_PREC.png)
 
 Abstract: 
 
