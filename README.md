@@ -1,4 +1,3 @@
-
 # CRCLIMprec-TEC
 
 CRCLIMprec is an program intended for the generation of precipitation climatologies using several interpolation methods
@@ -19,13 +18,13 @@ Luis Alexander Calvo Valverde. Escuela de Ingeniería en Computación, Instituto
 
 ## Publications
 
-# Generation of Monthly Precipitation Climatologies for Costa Rica Using Irregular Rain-Gauge Observational Networks
+Generation of Monthly Precipitation Climatologies for Costa Rica Using Irregular Rain-Gauge Observational Networks
 
 MDPI - Water Journal
 
-# https://www.mdpi.com/2073-4441/11/1/70
+https://www.mdpi.com/2073-4441/11/1/70
 
-# https://doi.org/10.3390/w11010070
+https://doi.org/10.3390/w11010070
 
 ![alt test](/Network.jpeg)
 
